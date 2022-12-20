@@ -6,12 +6,16 @@ background-color: red;
 .logo{
   width: 50%;
   display:inline-block;
+  padding-left: 0px;
+  margin-left: 0px;
 }
 
 ul{
   width:50%;
   list-style-type: none;
     display:inline-block;
+  padding-right: 0px;
+  margin-right: 0px;
 
 }
 
