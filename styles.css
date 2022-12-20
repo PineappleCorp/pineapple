@@ -4,17 +4,21 @@ background-color: red;
 }
 
 .logo{
-  width: 50%;
+  width: 30%;
   display:flex;
   padding-left: 0px;
   margin-left: 0px;
+  background-color: blue;
 }
 
 ul{
-  width:50%;
+  width:30%;
   list-style-type: none;
   display: flex;
-          flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  background-color: green;
+  padding-right: 0px;
+  margin-right: 0px;
 }
 
 li{
