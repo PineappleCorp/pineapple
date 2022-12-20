@@ -8,7 +8,7 @@ background-color: red;
   display:flex;
   padding-left: 0px;
   margin-left: 0px;
-  background-color: blue;
+  color: blue;
 }
 
 ul{
@@ -16,7 +16,7 @@ ul{
   list-style-type: none;
   display: flex;
   flex-direction: row-reverse;
-  background-color: green;
+  color: green;
   padding-right: 0px;
   margin-right: 0px;
 }
