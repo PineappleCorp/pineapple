@@ -19,7 +19,7 @@ ul{
 }
 
 li{
-display: flex;
+display: inline-flex;
     padding-right: 0px;
   margin-right: 0px;
 }
