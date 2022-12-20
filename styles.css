@@ -13,13 +13,9 @@ background-color: red;
 ul{
   width:50%;
   list-style-type: none;
-    display:inline-block;
-    padding-right: 0px;
-  margin-right: 0px;
+    display:inline-flex;
+   flex-direction: row-reverse;
 }
 
 li{
-display: inline-flex;
-    padding-right: 0px;
-  margin-right: 0px;
 }
